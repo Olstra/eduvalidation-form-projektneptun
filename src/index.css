@@ -1,0 +1,15 @@
+html{
+  background-color: #fdfcfb;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  background-color: #fdfcfb;
+  font-family: Inter, Helvetica, "sans-serif";
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 18px;
+}
